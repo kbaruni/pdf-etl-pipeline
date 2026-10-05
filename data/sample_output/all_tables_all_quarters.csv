@@ -1,0 +1,769 @@
+﻿table_key,region,province_id,district_id,municipality_id,indicator,measure,quarter,year,value
+table1_sex,South Africa,,,,Population,Women,1,2025,20729
+table1_sex,South Africa,,,,Population,Men,1,2025,20429
+table1_population_group,South Africa,,,,Population,Black African,1,2025,33728
+table1_population_group,South Africa,,,,Population,Coloured,1,2025,3601
+table1_population_group,South Africa,,,,Population,Indian/Asian,1,2025,1051
+table1_population_group,South Africa,,,,Population,White,1,2025,2778
+table1_province,South Africa,1,,,Population,,1,2025,5035
+table1_province,South Africa,2,,,Population,,1,2025,4539
+table1_province,South Africa,9,,,Population,,1,2025,838
+table1_province,South Africa,3,,,Population,,1,2025,1938
+table1_province,South Africa,4,,,Population,,1,2025,7607
+table1_province,South Africa,5,,,Population,,1,2025,2789
+table1_province,South Africa,6,,,Population,,1,2025,11232
+table1_province,South Africa,7,,,Population,,1,2025,3157
+table1_province,South Africa,8,,,Population,,1,2025,4023
+table2,South Africa,,,,Population 15–64 yrs,Women,1,2025,20729
+table2,South Africa,,,,Labour force,Women,1,2025,11529
+table2,South Africa,,,,Employed,Women,1,2025,7476
+table2,South Africa,,,,Formal sector (non-agricultural),Women,1,2025,5189
+table2,South Africa,,,,Informal sector (non-agricultural),Women,1,2025,1119
+table2,South Africa,,,,Agriculture,Women,1,2025,300
+table2,South Africa,,,,Private households,Women,1,2025,867
+table2,South Africa,,,,Unemployed,Women,1,2025,4054
+table2,South Africa,,,,Not economically active,Women,1,2025,9200
+table2,South Africa,,,,Discouraged work-seekers,Women,1,2025,1668
+table2,South Africa,,,,Other (not economically active),Women,1,2025,7532
+table2,South Africa,,,,Population 15–64 yrs,Men,1,2025,20429
+table2,South Africa,,,,Labour force,Men,1,2025,13441
+table2,South Africa,,,,Employed,Men,1,2025,9269
+table2,South Africa,,,,Formal sector (non-agricultural),Men,1,2025,6355
+table2,South Africa,,,,Informal sector (non-agricultural),Men,1,2025,1963
+table2,South Africa,,,,Agriculture,Men,1,2025,641
+table2,South Africa,,,,Private households,Men,1,2025,311
+table2,South Africa,,,,Unemployed,Men,1,2025,4172
+table2,South Africa,,,,Not economically active,Men,1,2025,6988
+table2,South Africa,,,,Discouraged work-seekers,Men,1,2025,1379
+table2,South Africa,,,,Other (not economically active),Men,1,2025,5608
+table2_1,South Africa,,,,Population 15–64 yrs,Indian/Asian,1,2025,1051
+table2_1,South Africa,,,,Labour force,Indian/Asian,1,2025,620
+table2_1,South Africa,,,,Employed,Indian/Asian,1,2025,542
+table2_1,South Africa,,,,Unemployed,Indian/Asian,1,2025,78
+table2_1,South Africa,,,,Not economically active,Indian/Asian,1,2025,432
+table2_1,South Africa,,,,Population 15–64 yrs,White,1,2025,2778
+table2_1,South Africa,,,,Labour force,White,1,2025,1919
+table2_1,South Africa,,,,Employed,White,1,2025,1743
+table2_1,South Africa,,,,Unemployed,White,1,2025,177
+table2_1,South Africa,,,,Not economically active,White,1,2025,859
+table2_2,South Africa,,,,Labour force,15–24 years,1,2025,2750
+table2_2,South Africa,,,,Employed,15–24 years,1,2025,1107
+table2_2,South Africa,,,,Unemployed,15–24 years,1,2025,1642
+table2_2,South Africa,,,,Not economically active,15–24 years,1,2025,7505
+table2_2,South Africa,,,,Labour force,25–34 years,1,2025,8002
+table2_2,South Africa,,,,Employed,25–34 years,1,2025,4749
+table2_2,South Africa,,,,Unemployed,25–34 years,1,2025,3253
+table2_2,South Africa,,,,Not economically active,25–34 years,1,2025,2584
+table2_2,South Africa,,,,Labour force,35–44 years,1,2025,7225
+table2_2,South Africa,,,,Employed,35–44 years,1,2025,5178
+table2_2,South Africa,,,,Unemployed,35–44 years,1,2025,2047
+table2_2,South Africa,,,,Not economically active,35–44 years,1,2025,1870
+table2_2,South Africa,,,,Labour force,45–54 years,1,2025,5062
+table2_2,South Africa,,,,Employed,45–54 years,1,2025,4009
+table2_2,South Africa,,,,Unemployed,45–54 years,1,2025,1053
+table2_2,South Africa,,,,Not economically active,45–54 years,1,2025,1774
+table2_2,South Africa,,,,Labour force,55–64 years,1,2025,1932
+table2_2,South Africa,,,,Employed,55–64 years,1,2025,1701
+table2_2,South Africa,,,,Unemployed,55–64 years,1,2025,230
+table2_2,South Africa,,,,Not economically active,55–64 years,1,2025,2455
+table2_3,South Africa,1,,9999.0,Labour force,,1,2025,1197
+table2_3,South Africa,1,,9999.0,Employed,,1,2025,999
+table2_3,South Africa,1,,9999.0,Unemployed,,1,2025,199
+table2_3,South Africa,1,,9999.0,Not economically active,,1,2025,630
+table2_3,South Africa,1,,9999.0,Discouraged work-seekers,,1,2025,91
+table2_3,South Africa,1,,9999.0,Other (not economically active),,1,2025,539
+table2_3,South Africa,1,47.0,189.0,Labour force,,1,2025,2288
+table2_3,South Africa,1,47.0,189.0,Employed,,1,2025,1741
+table2_3,South Africa,1,47.0,189.0,Unemployed,,1,2025,547
+table2_3,South Africa,1,47.0,189.0,Not economically active,,1,2025,919
+table2_3,South Africa,1,47.0,189.0,Discouraged work-seekers,,1,2025,34
+table2_3,South Africa,1,47.0,189.0,Other (not economically active),,1,2025,886
+table2_3,South Africa,2,,9999.0,Labour force,,1,2025,1437
+table2_3,South Africa,2,,9999.0,Employed,,1,2025,744
+table2_3,South Africa,2,,9999.0,Unemployed,,1,2025,693
+table2_3,South Africa,2,,9999.0,Not economically active,,1,2025,1658
+table2_3,South Africa,2,,9999.0,Discouraged work-seekers,,1,2025,220
+table2_3,South Africa,2,,9999.0,Other (not economically active),,1,2025,1438
+table2_3,South Africa,2,3.0,180.0,Labour force,,1,2025,383
+table2_3,South Africa,2,3.0,180.0,Employed,,1,2025,253
+table2_3,South Africa,2,3.0,180.0,Unemployed,,1,2025,129
+table2_3,South Africa,2,3.0,180.0,Not economically active,,1,2025,174
+table2_3,South Africa,2,3.0,180.0,Discouraged work-seekers,,1,2025,3
+table2_3,South Africa,2,3.0,180.0,Other (not economically active),,1,2025,171
+table2_3,South Africa,2,10.0,179.0,Labour force,,1,2025,512
+table2_3,South Africa,2,10.0,179.0,Employed,,1,2025,346
+table2_3,South Africa,2,10.0,179.0,Unemployed,,1,2025,166
+table2_3,South Africa,2,10.0,179.0,Not economically active,,1,2025,375
+table2_3,South Africa,2,10.0,179.0,Discouraged work-seekers,,1,2025,1
+table2_3,South Africa,2,10.0,179.0,Other (not economically active),,1,2025,374
+table2_3,South Africa,9,,,Labour force,,1,2025,462
+table2_3,South Africa,9,,,Employed,,1,2025,331
+table2_3,South Africa,9,,,Unemployed,,1,2025,131
+table2_3,South Africa,9,,,Not economically active,,1,2025,376
+table2_3,South Africa,9,,,Discouraged work-seekers,,1,2025,86
+table2_3,South Africa,9,,,Other (not economically active),,1,2025,289
+table2_3,South Africa,3,,9999.0,Labour force,,1,2025,869
+table2_3,South Africa,3,,9999.0,Employed,,1,2025,513
+table2_3,South Africa,3,,9999.0,Unemployed,,1,2025,356
+table2_3,South Africa,3,,9999.0,Not economically active,,1,2025,512
+table2_3,South Africa,3,,9999.0,Discouraged work-seekers,,1,2025,75
+table2_3,South Africa,3,,9999.0,Other (not economically active),,1,2025,437
+table2_3,South Africa,3,15.0,202.0,Labour force,,1,2025,328
+table2_3,South Africa,3,15.0,202.0,Employed,,1,2025,229
+table2_3,South Africa,3,15.0,202.0,Unemployed,,1,2025,99
+table2_3,South Africa,3,15.0,202.0,Not economically active,,1,2025,229
+table2_3,South Africa,3,15.0,202.0,Discouraged work-seekers,,1,2025,50
+table2_3,South Africa,3,15.0,202.0,Other (not economically active),,1,2025,179
+table2_3,South Africa,4,,9999.0,Labour force,,1,2025,2496
+table2_3,South Africa,4,,9999.0,Employed,,1,2025,1618
+table2_3,South Africa,4,,9999.0,Unemployed,,1,2025,877
+table2_3,South Africa,4,,9999.0,Not economically active,,1,2025,2448
+table2_3,South Africa,4,,9999.0,Discouraged work-seekers,,1,2025,481
+table2_3,South Africa,4,,9999.0,Other (not economically active),,1,2025,1967
+table2_3,South Africa,4,29.0,168.0,Labour force,,1,2025,1631
+table2_3,South Africa,4,29.0,168.0,Employed,,1,2025,1273
+table2_3,South Africa,4,29.0,168.0,Unemployed,,1,2025,358
+table2_3,South Africa,4,29.0,168.0,Not economically active,,1,2025,1033
+table2_3,South Africa,4,29.0,168.0,Discouraged work-seekers,,1,2025,290
+table2_3,South Africa,4,29.0,168.0,Other (not economically active),,1,2025,742
+table2_3,South Africa,5,,,Labour force,,1,2025,1511
+table2_3,South Africa,5,,,Employed,,1,2025,899
+table2_3,South Africa,5,,,Unemployed,,1,2025,612
+table2_3,South Africa,5,,,Not economically active,,1,2025,1279
+table2_3,South Africa,5,,,Discouraged work-seekers,,1,2025,339
+table2_3,South Africa,5,,,Other (not economically active),,1,2025,939
+table2_3,South Africa,6,,9999.0,Labour force,,1,2025,1017
+table2_3,South Africa,6,,9999.0,Employed,,1,2025,612
+table2_3,South Africa,6,,9999.0,Unemployed,,1,2025,405
+table2_3,South Africa,6,,9999.0,Not economically active,,1,2025,469
+table2_3,South Africa,6,,9999.0,Discouraged work-seekers,,1,2025,107
+table2_3,South Africa,6,,9999.0,Other (not economically active),,1,2025,362
+table2_3,South Africa,6,1.0,213.0,Labour force,,1,2025,1830
+table2_3,South Africa,6,1.0,213.0,Employed,,1,2025,1231
+table2_3,South Africa,6,1.0,213.0,Unemployed,,1,2025,600
+table2_3,South Africa,6,1.0,213.0,Not economically active,,1,2025,991
+table2_3,South Africa,6,1.0,213.0,Discouraged work-seekers,,1,2025,211
+table2_3,South Africa,6,1.0,213.0,Other (not economically active),,1,2025,780
+table2_3,South Africa,6,2.0,212.0,Labour force,,1,2025,2883
+table2_3,South Africa,6,2.0,212.0,Employed,,1,2025,1947
+table2_3,South Africa,6,2.0,212.0,Unemployed,,1,2025,937
+table2_3,South Africa,6,2.0,212.0,Not economically active,,1,2025,1283
+table2_3,South Africa,6,2.0,212.0,Discouraged work-seekers,,1,2025,139
+table2_3,South Africa,6,2.0,212.0,Other (not economically active),,1,2025,1144
+table2_3,South Africa,6,18.0,37.0,Labour force,,1,2025,1958
+table2_3,South Africa,6,18.0,37.0,Employed,,1,2025,1271
+table2_3,South Africa,6,18.0,37.0,Unemployed,,1,2025,687
+table2_3,South Africa,6,18.0,37.0,Not economically active,,1,2025,801
+table2_3,South Africa,6,18.0,37.0,Discouraged work-seekers,,1,2025,78
+table2_3,South Africa,6,18.0,37.0,Other (not economically active),,1,2025,723
+table2_3,South Africa,7,,,Labour force,,1,2025,1945
+table2_3,South Africa,7,,,Employed,,1,2025,1242
+table2_3,South Africa,7,,,Unemployed,,1,2025,703
+table2_3,South Africa,7,,,Not economically active,,1,2025,1212
+table2_3,South Africa,7,,,Discouraged work-seekers,,1,2025,321
+table2_3,South Africa,7,,,Other (not economically active),,1,2025,890
+table2_3,South Africa,8,,,Labour force,,1,2025,2223
+table2_3,South Africa,8,,,Employed,,1,2025,1495
+table2_3,South Africa,8,,,Unemployed,,1,2025,728
+table2_3,South Africa,8,,,Not economically active,,1,2025,1800
+table2_3,South Africa,8,,,Discouraged work-seekers,,1,2025,521
+table2_3,South Africa,8,,,Other (not economically active),,1,2025,1279
+table2_4,South Africa,,,,Population 15–64 yrs,Women,1,2025,20729
+table2_4,South Africa,,,,Labour force,Women,1,2025,13725
+table2_4,South Africa,,,,Employed,Women,1,2025,7476
+table2_4,South Africa,,,,Formal sector (non-agricultural),Women,1,2025,5189
+table2_4,South Africa,,,,Informal sector (non-agricultural),Women,1,2025,1119
+table2_4,South Africa,,,,Agriculture,Women,1,2025,300
+table2_4,South Africa,,,,Private households,Women,1,2025,867
+table2_4,South Africa,,,,Unemployed,Women,1,2025,6249
+table2_4,South Africa,,,,Not economically active,Women,1,2025,7005
+table2_4,South Africa,,,,Population 15–64 yrs,Men,1,2025,20429
+table2_4,South Africa,,,,Labour force,Men,1,2025,15104
+table2_4,South Africa,,,,Employed,Men,1,2025,9269
+table2_4,South Africa,,,,Formal sector (non-agricultural),Men,1,2025,6355
+table2_4,South Africa,,,,Informal sector (non-agricultural),Men,1,2025,1963
+table2_4,South Africa,,,,Agriculture,Men,1,2025,641
+table2_4,South Africa,,,,Private households,Men,1,2025,311
+table2_4,South Africa,,,,Unemployed,Men,1,2025,5835
+table2_4,South Africa,,,,Not economically active,Men,1,2025,5325
+table2_5,South Africa,,,,Labour force,Black African,1,2025,23737
+table2_5,South Africa,,,,Employed,Black African,1,2025,12744
+table2_5,South Africa,,,,Unemployed,Black African,1,2025,10993
+table2_5,South Africa,,,,Not economically active,Black African,1,2025,9991
+table2_5,South Africa,,,,Labour force,Coloured,1,2025,2460
+table2_5,South Africa,,,,Employed,Coloured,1,2025,1716
+table2_5,South Africa,,,,Unemployed,Coloured,1,2025,743
+table2_5,South Africa,,,,Not economically active,Coloured,1,2025,1142
+table2_5,South Africa,,,,Labour force,Indian/Asian,1,2025,683
+table2_5,South Africa,,,,Employed,Indian/Asian,1,2025,542
+table2_5,South Africa,,,,Unemployed,Indian/Asian,1,2025,141
+table2_5,South Africa,,,,Not economically active,Indian/Asian,1,2025,369
+table2_5,South Africa,,,,Labour force,White,1,2025,1949
+table2_5,South Africa,,,,Employed,White,1,2025,1743
+table2_5,South Africa,,,,Unemployed,White,1,2025,207
+table2_5,South Africa,,,,Not economically active,White,1,2025,829
+table2_6,South Africa,,,,Labour force,15–24 years,1,2025,3646
+table2_6,South Africa,,,,Employed,15–24 years,1,2025,1107
+table2_6,South Africa,,,,Unemployed,15–24 years,1,2025,2539
+table2_6,South Africa,,,,Not economically active,15–24 years,1,2025,6608
+table2_6,South Africa,,,,Labour force,25–34 years,1,2025,9258
+table2_6,South Africa,,,,Employed,25–34 years,1,2025,4749
+table2_6,South Africa,,,,Unemployed,25–34 years,1,2025,4509
+table2_6,South Africa,,,,Not economically active,25–34 years,1,2025,1328
+table2_6,South Africa,,,,Labour force,35–44 years,1,2025,8095
+table2_6,South Africa,,,,Employed,35–44 years,1,2025,5178
+table2_6,South Africa,,,,Unemployed,35–44 years,1,2025,2918
+table2_6,South Africa,,,,Not economically active,35–44 years,1,2025,999
+table2_6,South Africa,,,,Labour force,45–54 years,1,2025,5688
+table2_6,South Africa,,,,Employed,45–54 years,1,2025,4009
+table2_6,South Africa,,,,Unemployed,45–54 years,1,2025,1679
+table2_6,South Africa,,,,Not economically active,45–54 years,1,2025,1148
+table2_6,South Africa,,,,Labour force,55–64 years,1,2025,2141
+table2_6,South Africa,,,,Employed,55–64 years,1,2025,1701
+table2_6,South Africa,,,,Unemployed,55–64 years,1,2025,440
+table2_6,South Africa,,,,Not economically active,55–64 years,1,2025,2246
+table2_7,South Africa,1,,9999.0,Labour force,,1,2025,1338
+table2_7,South Africa,1,,9999.0,Employed,,1,2025,999
+table2_7,South Africa,1,,9999.0,Unemployed,,1,2025,340
+table2_7,South Africa,1,,9999.0,Not economically active,,1,2025,489
+table2_7,South Africa,1,47.0,189.0,Labour force,,1,2025,2370
+table2_7,South Africa,1,47.0,189.0,Employed,,1,2025,1741
+table2_7,South Africa,1,47.0,189.0,Unemployed,,1,2025,629
+table2_7,South Africa,1,47.0,189.0,Not economically active,,1,2025,837
+table2_7,South Africa,2,,9999.0,Labour force,,1,2025,1731
+table2_7,South Africa,2,,9999.0,Employed,,1,2025,744
+table2_7,South Africa,2,,9999.0,Unemployed,,1,2025,987
+table2_7,South Africa,2,,9999.0,Not economically active,,1,2025,1364
+table2_7,South Africa,2,3.0,180.0,Labour force,,1,2025,390
+table2_7,South Africa,2,3.0,180.0,Employed,,1,2025,253
+table2_7,South Africa,2,3.0,180.0,Unemployed,,1,2025,137
+table2_7,South Africa,2,3.0,180.0,Not economically active,,1,2025,167
+table2_7,South Africa,2,10.0,179.0,Labour force,,1,2025,516
+table2_7,South Africa,2,10.0,179.0,Employed,,1,2025,346
+table2_7,South Africa,2,10.0,179.0,Unemployed,,1,2025,170
+table2_7,South Africa,2,10.0,179.0,Not economically active,,1,2025,370
+table2_7,South Africa,9,,,Labour force,,1,2025,568
+table2_7,South Africa,9,,,Employed,,1,2025,331
+table2_7,South Africa,9,,,Unemployed,,1,2025,237
+table2_7,South Africa,9,,,Not economically active,,1,2025,270
+table2_7,South Africa,3,,9999.0,Labour force,,1,2025,965
+table2_7,South Africa,3,,9999.0,Employed,,1,2025,513
+table2_7,South Africa,3,,9999.0,Unemployed,,1,2025,451
+table2_7,South Africa,3,,9999.0,Not economically active,,1,2025,416
+table2_7,South Africa,3,15.0,202.0,Labour force,,1,2025,387
+table2_7,South Africa,3,15.0,202.0,Employed,,1,2025,229
+table2_7,South Africa,3,15.0,202.0,Unemployed,,1,2025,158
+table2_7,South Africa,3,15.0,202.0,Not economically active,,1,2025,170
+table2_7,South Africa,4,,9999.0,Labour force,,1,2025,3108
+table2_7,South Africa,4,,9999.0,Employed,,1,2025,1618
+table2_7,South Africa,4,,9999.0,Unemployed,,1,2025,1490
+table2_7,South Africa,4,,9999.0,Not economically active,,1,2025,1835
+table2_7,South Africa,4,29.0,168.0,Labour force,,1,2025,2025
+table2_7,South Africa,4,29.0,168.0,Employed,,1,2025,1273
+table2_7,South Africa,4,29.0,168.0,Unemployed,,1,2025,753
+table2_7,South Africa,4,29.0,168.0,Not economically active,,1,2025,638
+table2_7,South Africa,5,,,Labour force,,1,2025,1939
+table2_7,South Africa,5,,,Employed,,1,2025,899
+table2_7,South Africa,5,,,Unemployed,,1,2025,1040
+table2_7,South Africa,5,,,Not economically active,,1,2025,851
+table2_7,South Africa,6,,9999.0,Labour force,,1,2025,1131
+table2_7,South Africa,6,,9999.0,Employed,,1,2025,612
+table2_7,South Africa,6,,9999.0,Unemployed,,1,2025,519
+table2_7,South Africa,6,,9999.0,Not economically active,,1,2025,355
+table2_7,South Africa,6,1.0,213.0,Labour force,,1,2025,2072
+table2_7,South Africa,6,1.0,213.0,Employed,,1,2025,1231
+table2_7,South Africa,6,1.0,213.0,Unemployed,,1,2025,841
+table2_7,South Africa,6,1.0,213.0,Not economically active,,1,2025,749
+table2_7,South Africa,6,2.0,212.0,Labour force,,1,2025,3028
+table2_7,South Africa,6,2.0,212.0,Employed,,1,2025,1947
+table2_7,South Africa,6,2.0,212.0,Unemployed,,1,2025,1082
+table2_7,South Africa,6,2.0,212.0,Not economically active,,1,2025,1138
+table2_7,South Africa,6,18.0,37.0,Labour force,,1,2025,2051
+table2_7,South Africa,6,18.0,37.0,Employed,,1,2025,1271
+table2_7,South Africa,6,18.0,37.0,Unemployed,,1,2025,780
+table2_7,South Africa,6,18.0,37.0,Not economically active,,1,2025,707
+table2_7,South Africa,7,,,Labour force,,1,2025,2343
+table2_7,South Africa,7,,,Employed,,1,2025,1242
+table2_7,South Africa,7,,,Unemployed,,1,2025,1101
+table2_7,South Africa,7,,,Not economically active,,1,2025,814
+table2_7,South Africa,8,,,Labour force,,1,2025,2865
+table2_7,South Africa,8,,,Employed,,1,2025,1495
+table2_7,South Africa,8,,,Unemployed,,1,2025,1370
+table2_7,South Africa,8,,,Not economically active,,1,2025,1158
+table3_1,South Africa,,,,Agriculture,Women,1,2025,300
+table3_1,South Africa,,,,Mining,Women,1,2025,89
+table3_1,South Africa,,,,Manufacturing,Women,1,2025,562
+table3_1,South Africa,,,,Utilities,Women,1,2025,30
+table3_1,South Africa,,,,Construction,Women,1,2025,144
+table3_1,South Africa,,,,Trade,Women,1,2025,1663
+table3_1,South Africa,,,,Transport,Women,1,2025,192
+table3_1,South Africa,,,,Finance,Women,1,2025,1213
+table3_1,South Africa,,,,Community and social services,Women,1,2025,2414
+table3_1,South Africa,,,,Private households,Women,1,2025,867
+table3_1,South Africa,,,,Other,Women,1,2025,1
+table3_1,South Africa,,,,Agriculture,Men,1,2025,641
+table3_1,South Africa,,,,Mining,Men,1,2025,365
+table3_1,South Africa,,,,Manufacturing,Men,1,2025,1044
+table3_1,South Africa,,,,Utilities,Men,1,2025,76
+table3_1,South Africa,,,,Construction,Men,1,2025,1072
+table3_1,South Africa,,,,Trade,Men,1,2025,1809
+table3_1,South Africa,,,,Transport,Men,1,2025,869
+table3_1,South Africa,,,,Finance,Men,1,2025,1701
+table3_1,South Africa,,,,Community and social services,Men,1,2025,1377
+table3_1,South Africa,,,,Private households,Men,1,2025,311
+table3_1,South Africa,,,,Other,Men,1,2025,5
+table3_2,South Africa,8,,,Mining,,1,2025,454
+table3_2,South Africa,8,,,Manufacturing,,1,2025,1606
+table3_2,South Africa,8,,,Utilities,,1,2025,105
+table3_2,South Africa,8,,,Construction,,1,2025,1215
+table3_2,South Africa,8,,,Trade,,1,2025,3471
+table3_2,South Africa,8,,,Transport,,1,2025,1062
+table3_2,South Africa,8,,,Finance,,1,2025,2914
+table3_2,South Africa,8,,,Community and social services,,1,2025,3791
+table3_2,South Africa,8,,,Private households,,1,2025,1178
+table3_3,South Africa,,,,Mining,Formal sector (non-agricultural),1,2025,448
+table3_3,South Africa,,,,Manufacturing,Formal sector (non-agricultural),1,2025,1389
+table3_3,South Africa,,,,Utilities,Formal sector (non-agricultural),1,2025,101
+table3_3,South Africa,,,,Construction,Formal sector (non-agricultural),1,2025,758
+table3_3,South Africa,,,,Trade,Formal sector (non-agricultural),1,2025,2286
+table3_3,South Africa,,,,Transport,Formal sector (non-agricultural),1,2025,682
+table3_3,South Africa,,,,Finance,Formal sector (non-agricultural),1,2025,2607
+table3_3,South Africa,,,,Community and social services,Formal sector (non-agricultural),1,2025,3269
+table3_3,South Africa,,,,Other,Formal sector (non-agricultural),1,2025,4
+table3_3,South Africa,,,,Mining,Informal sector (non-agricultural),1,2025,7
+table3_3,South Africa,,,,Manufacturing,Informal sector (non-agricultural),1,2025,217
+table3_3,South Africa,,,,Utilities,Informal sector (non-agricultural),1,2025,5
+table3_3,South Africa,,,,Construction,Informal sector (non-agricultural),1,2025,457
+table3_3,South Africa,,,,Trade,Informal sector (non-agricultural),1,2025,1186
+table3_3,South Africa,,,,Transport,Informal sector (non-agricultural),1,2025,380
+table3_3,South Africa,,,,Finance,Informal sector (non-agricultural),1,2025,307
+table3_3,South Africa,,,,Community and social services,Informal sector (non-agricultural),1,2025,522
+table3_3,South Africa,,,,Other,Informal sector (non-agricultural),1,2025,2
+table3_4,South Africa,1,,9999.0,Formal sector (non-agricultural),,1,2025,596
+table3_4,South Africa,1,,9999.0,Informal sector (non-agricultural),,1,2025,120
+table3_4,South Africa,1,,9999.0,Agriculture,,1,2025,203
+table3_4,South Africa,1,,9999.0,Private households,,1,2025,79
+table3_4,South Africa,1,47.0,189.0,Formal sector (non-agricultural),,1,2025,1380
+table3_4,South Africa,1,47.0,189.0,Informal sector (non-agricultural),,1,2025,240
+table3_4,South Africa,1,47.0,189.0,Agriculture,,1,2025,13
+table3_4,South Africa,1,47.0,189.0,Private households,,1,2025,109
+table3_4,South Africa,2,,9999.0,Formal sector (non-agricultural),,1,2025,425
+table3_4,South Africa,2,,9999.0,Informal sector (non-agricultural),,1,2025,190
+table3_4,South Africa,2,,9999.0,Agriculture,,1,2025,86
+table3_4,South Africa,2,,9999.0,Private households,,1,2025,44
+table3_4,South Africa,2,3.0,180.0,Formal sector (non-agricultural),,1,2025,182
+table3_4,South Africa,2,3.0,180.0,Informal sector (non-agricultural),,1,2025,45
+table3_4,South Africa,2,3.0,180.0,Agriculture,,1,2025,10
+table3_4,South Africa,2,3.0,180.0,Private households,,1,2025,16
+table3_4,South Africa,2,10.0,179.0,Formal sector (non-agricultural),,1,2025,278
+table3_4,South Africa,2,10.0,179.0,Informal sector (non-agricultural),,1,2025,49
+table3_4,South Africa,2,10.0,179.0,Agriculture,,1,2025,3
+table3_4,South Africa,2,10.0,179.0,Private households,,1,2025,17
+table3_4,South Africa,9,,,Formal sector (non-agricultural),,1,2025,216
+table3_4,South Africa,9,,,Informal sector (non-agricultural),,1,2025,37
+table3_4,South Africa,9,,,Agriculture,,1,2025,54
+table3_4,South Africa,9,,,Private households,,1,2025,23
+table3_4,South Africa,3,,9999.0,Formal sector (non-agricultural),,1,2025,286
+table3_4,South Africa,3,,9999.0,Informal sector (non-agricultural),,1,2025,103
+table3_4,South Africa,3,,9999.0,Agriculture,,1,2025,75
+table3_4,South Africa,3,,9999.0,Private households,,1,2025,50
+table3_4,South Africa,3,15.0,202.0,Formal sector (non-agricultural),,1,2025,154
+table3_4,South Africa,3,15.0,202.0,Informal sector (non-agricultural),,1,2025,47
+table3_4,South Africa,3,15.0,202.0,Agriculture,,1,2025,4
+table3_4,South Africa,3,15.0,202.0,Private households,,1,2025,24
+table3_4,South Africa,4,,9999.0,Formal sector (non-agricultural),,1,2025,974
+table3_4,South Africa,4,,9999.0,Informal sector (non-agricultural),,1,2025,376
+table3_4,South Africa,4,,9999.0,Agriculture,,1,2025,139
+table3_4,South Africa,4,,9999.0,Private households,,1,2025,131
+table3_4,South Africa,4,29.0,168.0,Formal sector (non-agricultural),,1,2025,934
+table3_4,South Africa,4,29.0,168.0,Informal sector (non-agricultural),,1,2025,237
+table3_4,South Africa,4,29.0,168.0,Agriculture,,1,2025,4
+table3_4,South Africa,4,29.0,168.0,Private households,,1,2025,98
+table3_4,South Africa,5,,,Formal sector (non-agricultural),,1,2025,622
+table3_4,South Africa,5,,,Informal sector (non-agricultural),,1,2025,144
+table3_4,South Africa,5,,,Agriculture,,1,2025,77
+table3_4,South Africa,5,,,Private households,,1,2025,55
+table3_4,South Africa,6,,9999.0,Formal sector (non-agricultural),,1,2025,447
+table3_4,South Africa,6,,9999.0,Informal sector (non-agricultural),,1,2025,109
+table3_4,South Africa,6,,9999.0,Agriculture,,1,2025,20
+table3_4,South Africa,6,,9999.0,Private households,,1,2025,36
+table3_4,South Africa,6,1.0,213.0,Formal sector (non-agricultural),,1,2025,972
+table3_4,South Africa,6,1.0,213.0,Informal sector (non-agricultural),,1,2025,193
+table3_4,South Africa,6,1.0,213.0,Agriculture,,1,2025,4
+table3_4,South Africa,6,1.0,213.0,Private households,,1,2025,62
+table3_4,South Africa,6,2.0,212.0,Formal sector (non-agricultural),,1,2025,1451
+table3_4,South Africa,6,2.0,212.0,Informal sector (non-agricultural),,1,2025,329
+table3_4,South Africa,6,2.0,212.0,Agriculture,,1,2025,8
+table3_4,South Africa,6,2.0,212.0,Private households,,1,2025,158
+table3_4,South Africa,6,18.0,37.0,Formal sector (non-agricultural),,1,2025,1033
+table3_4,South Africa,6,18.0,37.0,Informal sector (non-agricultural),,1,2025,132
+table3_4,South Africa,6,18.0,37.0,Agriculture,,1,2025,15
+table3_4,South Africa,6,18.0,37.0,Private households,,1,2025,92
+table3_4,South Africa,7,,,Formal sector (non-agricultural),,1,2025,723
+table3_4,South Africa,7,,,Informal sector (non-agricultural),,1,2025,322
+table3_4,South Africa,7,,,Agriculture,,1,2025,105
+table3_4,South Africa,7,,,Private households,,1,2025,93
+table3_4,South Africa,8,,,Formal sector (non-agricultural),,1,2025,870
+table3_4,South Africa,8,,,Informal sector (non-agricultural),,1,2025,408
+table3_4,South Africa,8,,,Agriculture,,1,2025,123
+table3_4,South Africa,8,,,Private households,,1,2025,94
+table3_5,South Africa,,,,Manager,Women,1,2025,477
+table3_5,South Africa,,,,Professional,Women,1,2025,640
+table3_5,South Africa,,,,Technician,Women,1,2025,871
+table3_5,South Africa,,,,Clerk,Women,1,2025,1253
+table3_5,South Africa,,,,Sales and services,Women,1,2025,1307
+table3_5,South Africa,,,,Skilled agriculture,Women,1,2025,19
+table3_5,South Africa,,,,Craft and related trade,Women,1,2025,226
+table3_5,South Africa,,,,Plant and machine operator,Women,1,2025,193
+table3_5,South Africa,,,,Elementary,Women,1,2025,1664
+table3_5,South Africa,,,,Domestic worker,Women,1,2025,826
+table3_5,South Africa,,,,Manager,Men,1,2025,826
+table3_5,South Africa,,,,Professional,Men,1,2025,589
+table3_5,South Africa,,,,Technician,Men,1,2025,719
+table3_5,South Africa,,,,Clerk,Men,1,2025,555
+table3_5,South Africa,,,,Sales and services,Men,1,2025,1438
+table3_5,South Africa,,,,Skilled agriculture,Men,1,2025,75
+table3_5,South Africa,,,,Craft and related trade,Men,1,2025,1467
+table3_5,South Africa,,,,Plant and machine operator,Men,1,2025,1375
+table3_5,South Africa,,,,Elementary,Men,1,2025,2181
+table3_5,South Africa,,,,Domestic worker,Men,1,2025,43
+table3_6,South Africa,,,,Employee,Women,1,2025,6472
+table3_6,South Africa,,,,Employer,Women,1,2025,222
+table3_6,South Africa,,,,Own-account worker,Women,1,2025,734
+table3_6,South Africa,,,,Unpaid household member,Women,1,2025,47
+table3_6,South Africa,,,,Employee,Men,1,2025,7634
+table3_6,South Africa,,,,Employer,Men,1,2025,607
+table3_6,South Africa,,,,Own-account worker,Men,1,2025,978
+table3_6,South Africa,,,,Unpaid household member,Men,1,2025,51
+table3_7,South Africa,,,,Working less than 15 hours per week,Women,1,2025,256
+table3_7,South Africa,,,,Working 15–29 hours per week,Women,1,2025,699
+table3_7,South Africa,,,,Working 30–39 hours per week,Women,1,2025,657
+table3_7,South Africa,,,,Working 40–45 hours per week,Women,1,2025,4276
+table3_7,South Africa,,,,Working more than 45 hours per week,Women,1,2025,1588
+table3_7,South Africa,,,,Working less than 15 hours per week,Men,1,2025,240
+table3_7,South Africa,,,,Working 15–29 hours per week,Men,1,2025,440
+table3_7,South Africa,,,,Working 30–39 hours per week,Men,1,2025,509
+table3_7,South Africa,,,,Working 40–45 hours per week,Men,1,2025,4995
+table3_7,South Africa,,,,Working more than 45 hours per week,Men,1,2025,3086
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Yes,Women,1,2025,2812
+table3_8a,South Africa,,,,Pension/retirement fund contribution: No,Women,1,2025,3471
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Don't know,Women,1,2025,189
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Yes,Men,1,2025,3474
+table3_8a,South Africa,,,,Pension/retirement fund contribution: No,Men,1,2025,3939
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Don't know,Men,1,2025,221
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Yes,Men,1,2025,9280
+table3_8a,South Africa,,,,Pension/retirement fund contribution: No,Men,1,2025,4657
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Don't know,Men,1,2025,169
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Yes,Women,1,2025,4314
+table3_8a,South Africa,,,,Pension/retirement fund contribution: No,Women,1,2025,2088
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Don't know,Women,1,2025,71
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Yes,Men,1,2025,4966
+table3_8a,South Africa,,,,Pension/retirement fund contribution: No,Men,1,2025,2569
+table3_8a,South Africa,,,,Pension/retirement fund contribution: Don't know,Men,1,2025,99
+table3_8b,South Africa,,,,Entitled to any paid leave: Yes,Men,1,2025,9280
+table3_8b,South Africa,,,,Entitled to any paid leave: No,Men,1,2025,4657
+table3_8b,South Africa,,,,Entitled to any paid leave: Don't know,Men,1,2025,169
+table3_8b,South Africa,,,,Entitled to any paid leave: Yes,Women,1,2025,4314
+table3_8b,South Africa,,,,Entitled to any paid leave: No,Women,1,2025,2088
+table3_8b,South Africa,,,,Entitled to any paid leave: Don't know,Women,1,2025,71
+table3_8b,South Africa,,,,Entitled to any paid leave: Yes,Men,1,2025,4966
+table3_8b,South Africa,,,,Entitled to any paid leave: No,Men,1,2025,2569
+table3_8b,South Africa,,,,Entitled to any paid leave: Don't know,Men,1,2025,99
+table3_8c,South Africa,,,,Entitled to paid sick leave: Yes,Women,1,2025,4705
+table3_8c,South Africa,,,,Entitled to paid sick leave: No,Women,1,2025,1705
+table3_8c,South Africa,,,,Entitled to paid sick leave: Don't know,Women,1,2025,62
+table3_8c,South Africa,,,,Entitled to paid sick leave: Yes,Men,1,2025,5369
+table3_8c,South Africa,,,,Entitled to paid sick leave: No,Men,1,2025,2178
+table3_8c,South Africa,,,,Entitled to paid sick leave: Don't know,Men,1,2025,86
+table3_8c,South Africa,,,,Entitled to paid sick leave: Yes,Men,1,2025,7702
+table3_8c,South Africa,,,,Entitled to paid sick leave: No,Men,1,2025,6050
+table3_8c,South Africa,,,,Entitled to paid sick leave: Don't know,Men,1,2025,354
+table3_8c,South Africa,,,,Entitled to paid sick leave: Yes,Women,1,2025,3760
+table3_8c,South Africa,,,,Entitled to paid sick leave: No,Women,1,2025,2572
+table3_8c,South Africa,,,,Entitled to paid sick leave: Don't know,Women,1,2025,140
+table3_8c,South Africa,,,,Entitled to paid sick leave: Yes,Men,1,2025,3942
+table3_8c,South Africa,,,,Entitled to paid sick leave: No,Men,1,2025,3478
+table3_8c,South Africa,,,,Entitled to paid sick leave: Don't know,Men,1,2025,214
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Yes,Men,1,2025,7702
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: No,Men,1,2025,6050
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Don't know,Men,1,2025,354
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Yes,Women,1,2025,3760
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: No,Women,1,2025,2572
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Don't know,Women,1,2025,140
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Yes,Men,1,2025,3942
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: No,Men,1,2025,3478
+table3_8d,South Africa,,,,Entitled to maternity/paternity leave: Don't know,Men,1,2025,214
+table3_8e,South Africa,,,,UIF contribution: Yes,Women,1,2025,3822
+table3_8e,South Africa,,,,UIF contribution: No,Women,1,2025,2490
+table3_8e,South Africa,,,,UIF contribution: Don't know,Women,1,2025,160
+table3_8e,South Africa,,,,UIF contribution: Yes,Men,1,2025,4859
+table3_8e,South Africa,,,,UIF contribution: No,Men,1,2025,2618
+table3_8e,South Africa,,,,UIF contribution: Don't know,Men,1,2025,157
+table3_8e,South Africa,,,,UIF contribution: Yes,Men,1,2025,4213
+table3_8e,South Africa,,,,UIF contribution: No,Men,1,2025,9682
+table3_8e,South Africa,,,,UIF contribution: Don't know,Men,1,2025,211
+table3_8e,South Africa,,,,UIF contribution: Yes,Women,1,2025,1969
+table3_8e,South Africa,,,,UIF contribution: No,Women,1,2025,4415
+table3_8e,South Africa,,,,UIF contribution: Don't know,Women,1,2025,88
+table3_8e,South Africa,,,,UIF contribution: Yes,Men,1,2025,2244
+table3_8e,South Africa,,,,UIF contribution: No,Men,1,2025,5267
+table3_8e,South Africa,,,,UIF contribution: Don't know,Men,1,2025,122
+table3_8f,South Africa,,,,Medical aid benefits: Yes,Men,1,2025,4213
+table3_8f,South Africa,,,,Medical aid benefits: No,Men,1,2025,9682
+table3_8f,South Africa,,,,Medical aid benefits: Don't know,Men,1,2025,211
+table3_8f,South Africa,,,,Medical aid benefits: Yes,Women,1,2025,1969
+table3_8f,South Africa,,,,Medical aid benefits: No,Women,1,2025,4415
+table3_8f,South Africa,,,,Medical aid benefits: Don't know,Women,1,2025,88
+table3_8f,South Africa,,,,Medical aid benefits: Yes,Men,1,2025,2244
+table3_8f,South Africa,,,,Medical aid benefits: No,Men,1,2025,5267
+table3_8f,South Africa,,,,Medical aid benefits: Don't know,Men,1,2025,122
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: Yes,Women,1,2025,3568
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: No,Women,1,2025,2742
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: Don't know,Women,1,2025,162
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: Yes,Men,1,2025,4332
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: No,Men,1,2025,3107
+table3_8g,South Africa,,,,Income tax (PAYE/SITE) deduction: Don't know,Men,1,2025,194
+table3_8h,South Africa,,,,Written contract,Men,1,2025,11510
+table3_8h,South Africa,,,,Verbal agreement,Men,1,2025,2596
+table3_8h,South Africa,,,,Written contract,Women,1,2025,5403
+table3_8h,South Africa,,,,Verbal agreement,Women,1,2025,1069
+table3_8h,South Africa,,,,Written contract,Men,1,2025,6107
+table3_8h,South Africa,,,,Verbal agreement,Men,1,2025,1527
+table3_8i,South Africa,,,,Permanent nature,Women,1,2025,3845
+table3_8i,South Africa,,,,Permanent nature,Men,1,2025,4604
+table3_8j,South Africa,,,,Trade union membership: Yes,Men,1,2025,3879
+table3_8j,South Africa,,,,Trade union membership: No,Men,1,2025,9683
+table3_8j,South Africa,,,,Trade union membership: Don't know,Men,1,2025,544
+table3_8j,South Africa,,,,Trade union membership: Yes,Women,1,2025,1740
+table3_8j,South Africa,,,,Trade union membership: No,Women,1,2025,4503
+table3_8j,South Africa,,,,Trade union membership: Don't know,Women,1,2025,230
+table3_8j,South Africa,,,,Trade union membership: Yes,Men,1,2025,2139
+table3_8j,South Africa,,,,Trade union membership: No,Men,1,2025,5180
+table3_8j,South Africa,,,,Trade union membership: Don't know,Men,1,2025,314
+table3_8k,South Africa,,,,Individual and employer,Women,1,2025,511
+table3_8k,South Africa,,,,Union and employer,Women,1,2025,1256
+table3_8k,South Africa,,,,Bargaining council,Women,1,2025,693
+table3_8k,South Africa,,,,Employer only,Women,1,2025,3593
+table3_8k,South Africa,,,,No regular increment,Women,1,2025,394
+table3_8k,South Africa,,,,Other,Women,1,2025,26
+table3_8k,South Africa,,,,Individual and employer,Men,1,2025,628
+table3_8k,South Africa,,,,Union and employer,Men,1,2025,1616
+table3_8k,South Africa,,,,Bargaining council,Men,1,2025,658
+table3_8k,South Africa,,,,Employer only,Men,1,2025,4257
+table3_8k,South Africa,,,,No regular increment,Men,1,2025,441
+table3_8k,South Africa,,,,Other,Men,1,2025,32
+table3_9_sex,South Africa,,,,Underemployed,Women,1,2025,387
+table3_9_sex,South Africa,,,,Underemployed,Men,1,2025,334
+table3_9_sex,South Africa,,,,Underemployed,Women,1,2025,3.4
+table3_9_sex,South Africa,,,,Underemployed,Men,1,2025,2.5
+table3_9_sex,South Africa,,,,Underemployed,Women,1,2025,5.2
+table3_9_sex,South Africa,,,,Underemployed,Men,1,2025,3.6
+table3_9_industry,South Africa,,,,Agriculture,Industry,1,2025,24
+table3_9_industry,South Africa,,,,Mining,Industry,1,2025,
+table3_9_industry,South Africa,,,,Manufacturing,Industry,1,2025,38
+table3_9_industry,South Africa,,,,Utilities,Industry,1,2025,
+table3_9_industry,South Africa,,,,Construction,Industry,1,2025,73
+table3_9_industry,South Africa,,,,Trade,Industry,1,2025,128
+table3_9_industry,South Africa,,,,Transport,Industry,1,2025,23
+table3_9_industry,South Africa,,,,Finance,Industry,1,2025,60
+table3_9_industry,South Africa,,,,Community and social services,Industry,1,2025,187
+table3_9_industry,South Africa,,,,Private households,Industry,1,2025,187
+table3_9_occupation,South Africa,,,,Manager,Occupation,1,2025,15
+table3_9_occupation,South Africa,,,,Professional,Occupation,1,2025,15
+table3_9_occupation,South Africa,,,,Technician,Occupation,1,2025,26
+table3_9_occupation,South Africa,,,,Clerk,Occupation,1,2025,19
+table3_9_occupation,South Africa,,,,Sales and services,Occupation,1,2025,98
+table3_9_occupation,South Africa,,,,Skilled agriculture,Occupation,1,2025,3
+table3_9_occupation,South Africa,,,,Craft and related trade,Occupation,1,2025,81
+table3_9_occupation,South Africa,,,,Plant and machine operator,Occupation,1,2025,26
+table3_9_occupation,South Africa,,,,Elementary,Occupation,1,2025,313
+table3_9_occupation,South Africa,,,,Domestic worker,Occupation,1,2025,126
+table4_reason,South Africa,,,,Job losers,Unemployed,1,2025,2322
+table4_reason,South Africa,,,,Job leavers,Unemployed,1,2025,240
+table4_reason,South Africa,,,,New entrants,Unemployed,1,2025,3526
+table4_reason,South Africa,,,,Re-entrants,Unemployed,1,2025,346
+table4_reason,South Africa,,,,Other,Unemployed,1,2025,1792
+table4_reason,South Africa,,,,Other,Unemployed,1,2025,
+table4_duration,South Africa,,,,Long-term unemployment (1 year and more),Unemployed,1,2025,6189
+table4_duration,South Africa,,,,Short-term unemployment (less than 1 year),Unemployed,1,2025,2037
+table4_prev_occupation,South Africa,,,,Manager,Previous occupation,1,2025,66
+table4_prev_occupation,South Africa,,,,Professional,Previous occupation,1,2025,61
+table4_prev_occupation,South Africa,,,,Technician,Previous occupation,1,2025,263
+table4_prev_occupation,South Africa,,,,Clerk,Previous occupation,1,2025,289
+table4_prev_occupation,South Africa,,,,Sales and services,Previous occupation,1,2025,497
+table4_prev_occupation,South Africa,,,,Skilled agriculture,Previous occupation,1,2025,8
+table4_prev_occupation,South Africa,,,,Craft and related trade,Previous occupation,1,2025,419
+table4_prev_occupation,South Africa,,,,Plant and machine operator,Previous occupation,1,2025,189
+table4_prev_occupation,South Africa,,,,Elementary,Previous occupation,1,2025,938
+table4_prev_occupation,South Africa,,,,Domestic worker,Previous occupation,1,2025,177
+table4_prev_industry,South Africa,,,,Agriculture,Previous industry,1,2025,168
+table4_prev_industry,South Africa,,,,Mining,Previous industry,1,2025,82
+table4_prev_industry,South Africa,,,,Manufacturing,Previous industry,1,2025,271
+table4_prev_industry,South Africa,,,,Utilities,Previous industry,1,2025,13
+table4_prev_industry,South Africa,,,,Construction,Previous industry,1,2025,477
+table4_prev_industry,South Africa,,,,Trade,Previous industry,1,2025,562
+table4_prev_industry,South Africa,,,,Transport,Previous industry,1,2025,141
+table4_prev_industry,South Africa,,,,Finance,Previous industry,1,2025,339
+table4_prev_industry,South Africa,,,,Community and social services,Previous industry,1,2025,617
+table4_prev_industry,South Africa,,,,Private households,Previous industry,1,2025,236
+table5,South Africa,,,,Student,Not economically active,1,2025,5975
+table5,South Africa,,,,Homemaker,Not economically active,1,2025,2321
+table5,South Africa,,,,Illness/disability,Not economically active,1,2025,1643
+table5,South Africa,,,,Too old/young to work,Not economically active,1,2025,1749
+table5,South Africa,,,,Discouraged work-seekers,Not economically active,1,2025,3048
+table5,South Africa,,,,Other,Not economically active,1,2025,1451
+table6_age,South Africa,,,,15-24 yrs,Age group of the employed,1,2025,1107
+table6_age,South Africa,,,,25-34 yrs,Age group of the employed,1,2025,4749
+table6_age,South Africa,,,,35-44 yrs,Age group of the employed,1,2025,5178
+table6_age,South Africa,,,,45-54 yrs,Age group of the employed,1,2025,4009
+table6_age,South Africa,,,,55-64 yrs,Age group of the employed,1,2025,1701
+table6_age,South Africa,,,,15-24 yrs,Age group of the unemployed,1,2025,1642
+table6_age,South Africa,,,,25-34 yrs,Age group of the unemployed,1,2025,3253
+table6_age,South Africa,,,,35-44 yrs,Age group of the unemployed,1,2025,2047
+table6_age,South Africa,,,,45-54 yrs,Age group of the unemployed,1,2025,1053
+table6_age,South Africa,,,,55-64 yrs,Age group of the unemployed,1,2025,230
+table6_age,South Africa,,,,15-24 yrs,Age group of the not economically active,1,2025,7505
+table6_age,South Africa,,,,25-34 yrs,Age group of the not economically active,1,2025,2584
+table6_age,South Africa,,,,35-44 yrs,Age group of the not economically active,1,2025,1870
+table6_age,South Africa,,,,45-54 yrs,Age group of the not economically active,1,2025,1774
+table6_age,South Africa,,,,55-64 yrs,Age group of the not economically active,1,2025,2455
+table6_education,South Africa,,,,No schooling,Highest level of education of the employed,1,2025,184
+table6_education,South Africa,,,,Less than primary completed,Highest level of education of the employed,1,2025,666
+table6_education,South Africa,,,,Primary completed,Highest level of education of the employed,1,2025,470
+table6_education,South Africa,,,,Secondary not completed,Highest level of education of the employed,1,2025,5071
+table6_education,South Africa,,,,Secondary completed,Highest level of education of the employed,1,2025,6105
+table6_education,South Africa,,,,Tertiary,Highest level of education of the employed,1,2025,3980
+table6_education,South Africa,,,,Other,Highest level of education of the employed,1,2025,268
+table6_education,South Africa,,,,No schooling,Highest level of education of the unemployed,1,2025,54
+table6_education,South Africa,,,,Less than primary completed,Highest level of education of the unemployed,1,2025,339
+table6_education,South Africa,,,,Primary completed,Highest level of education of the unemployed,1,2025,240
+table6_education,South Africa,,,,Secondary not completed,Highest level of education of the unemployed,1,2025,3463
+table6_education,South Africa,,,,Secondary completed,Highest level of education of the unemployed,1,2025,3220
+table6_education,South Africa,,,,Tertiary,Highest level of education of the unemployed,1,2025,858
+table6_education,South Africa,,,,Other,Highest level of education of the unemployed,1,2025,52
+table6_education,South Africa,,,,No schooling,Highest level of education of the not economically active,1,2025,466
+table6_education,South Africa,,,,Less than primary completed,Highest level of education of the not economically active,1,2025,1189
+table6_education,South Africa,,,,Primary completed,Highest level of education of the not economically active,1,2025,745
+table6_education,South Africa,,,,Secondary not completed,Highest level of education of the not economically active,1,2025,8272
+table6_education,South Africa,,,,Secondary completed,Highest level of education of the not economically active,1,2025,4517
+table6_education,South Africa,,,,Tertiary,Highest level of education of the not economically active,1,2025,780
+table6_education,South Africa,,,,Other,Highest level of education of the not economically active,1,2025,218
+table6_attendance,South Africa,,,,Attending educational institution,Employed,1,2025,322
+table6_attendance,South Africa,,,,Not attending educational institution,Employed,1,2025,16423
+table6_attendance,South Africa,,,,Attending educational institution,Unemployed,1,2025,133
+table6_attendance,South Africa,,,,Not attending educational institution,Unemployed,1,2025,8093
+table6_attendance,South Africa,,,,Attending educational institution,Not economically active,1,2025,5765
+table6_attendance,South Africa,,,,Not attending educational institution,Not economically active,1,2025,10423
+table6_marital,South Africa,,,,Married,Current marital status of the employed,1,2025,5910
+table6_marital,South Africa,,,,Living together like husband and wife,Current marital status of the employed,1,2025,2180
+table6_marital,South Africa,,,,Widow/widower,Current marital status of the employed,1,2025,399
+table6_marital,South Africa,,,,Never married,Current marital status of the employed,1,2025,7741
+table6_marital,South Africa,,,,Married,Current marital status of the unemployed,1,2025,1041
+table6_marital,South Africa,,,,Living together like husband and wife,Current marital status of the unemployed,1,2025,884
+table6_marital,South Africa,,,,Widow/widower,Current marital status of the unemployed,1,2025,60
+table6_marital,South Africa,,,,Never married,Current marital status of the unemployed,1,2025,6116
+table6_marital,South Africa,,,,Married,Current marital status of the not economically active,1,2025,2606
+table6_marital,South Africa,,,,Living together like husband and wife,Current marital status of the not economically active,1,2025,874
+table6_marital,South Africa,,,,Widow/widower,Current marital status of the not economically active,1,2025,585
+table6_marital,South Africa,,,,Never married,Current marital status of the not economically active,1,2025,11848
+table7_sex,South Africa,,,,NEET,Women,1,2025,10220
+table7_sex,South Africa,,,,NEET,Men,1,2025,8296
+table7_age,South Africa,,,,NEET,15-24 yrs,1,2025,3638
+table7_age,South Africa,,,,NEET,25-34 yrs,1,2025,5497
+table7_age,South Africa,,,,NEET,35-44 yrs,1,2025,3877
+table7_age,South Africa,,,,NEET,45-54 yrs,1,2025,2819
+table7_age,South Africa,,,,NEET,55-64 yrs,1,2025,2685
+table7_population_group,South Africa,,,,NEET,Black/African,1,2025,15957
+table7_population_group,South Africa,,,,NEET,Coloured,1,2025,1501
+table7_population_group,South Africa,,,,NEET,Indian/Asian,1,2025,377
+table7_population_group,South Africa,,,,NEET,White,1,2025,681
+table7_province,South Africa,1,,,NEET,,1,2025,1732
+table7_province,South Africa,2,,,NEET,,1,2025,2494
+table7_province,South Africa,9,,,NEET,,1,2025,402
+table7_province,South Africa,3,,,NEET,,1,2025,908
+table7_province,South Africa,4,,,NEET,,1,2025,3507
+table7_province,South Africa,5,,,NEET,,1,2025,1508
+table7_province,South Africa,6,,,NEET,,1,2025,4663
+table7_province,South Africa,7,,,NEET,,1,2025,1436
+table7_province,South Africa,8,,,NEET,,1,2025,1866
+table8,South Africa,1,,,Subsistence farming,,1,2025,60
+table8,South Africa,1,,,Fetching water or collecting wood/dung,,1,2025,154
+table8,South Africa,1,,,Produce other goods for household use,,1,2025,1
+table8,South Africa,1,,,Construction or major repairs to own or household,,1,2025,3
+table8,South Africa,1,,,Hunting or fishing for household use,,1,2025,2
+table8,South Africa,1,,,Involvement in at least one activity,,1,2025,218
+table8,South Africa,1,,,Employed,,1,2025,107
+table8,South Africa,1,,,Unemployed,,1,2025,64
+table8,South Africa,1,,,Not economically active,,1,2025,47
+table8,South Africa,2,,,Subsistence farming,,1,2025,691
+table8,South Africa,2,,,Fetching water or collecting wood/dung,,1,2025,877
+table8,South Africa,2,,,Produce other goods for household use,,1,2025,84
+table8,South Africa,2,,,Construction or major repairs to own or household,,1,2025,135
+table8,South Africa,2,,,Hunting or fishing for household use,,1,2025,8
+table8,South Africa,2,,,Involvement in at least one activity,,1,2025,1399
+table8,South Africa,2,,,Employed,,1,2025,311
+table8,South Africa,2,,,Unemployed,,1,2025,419
+table8,South Africa,2,,,Not economically active,,1,2025,670
+table8,South Africa,9,,,Subsistence farming,,1,2025,30
+table8,South Africa,9,,,Fetching water or collecting wood/dung,,1,2025,96
+table8,South Africa,9,,,Produce other goods for household use,,1,2025,3
+table8,South Africa,9,,,Construction or major repairs to own or household,,1,2025,6
+table8,South Africa,9,,,Hunting or fishing for household use,,1,2025,2
+table8,South Africa,9,,,Involvement in at least one activity,,1,2025,122
+table8,South Africa,9,,,Employed,,1,2025,31
+table8,South Africa,9,,,Unemployed,,1,2025,25
+table8,South Africa,9,,,Not economically active,,1,2025,67
+table8,South Africa,3,,,Subsistence farming,,1,2025,91
+table8,South Africa,3,,,Fetching water or collecting wood/dung,,1,2025,62
+table8,South Africa,3,,,Produce other goods for household use,,1,2025,3
+table8,South Africa,3,,,Construction or major repairs to own or household,,1,2025,24
+table8,South Africa,3,,,Hunting or fishing for household use,,1,2025,14
+table8,South Africa,3,,,Involvement in at least one activity,,1,2025,169
+table8,South Africa,3,,,Employed,,1,2025,72
+table8,South Africa,3,,,Unemployed,,1,2025,50
+table8,South Africa,3,,,Not economically active,,1,2025,47
+table8,South Africa,4,,,Subsistence farming,,1,2025,989
+table8,South Africa,4,,,Fetching water or collecting wood/dung,,1,2025,1634
+table8,South Africa,4,,,Produce other goods for household use,,1,2025,136
+table8,South Africa,4,,,Construction or major repairs to own or household,,1,2025,93
+table8,South Africa,4,,,Hunting or fishing for household use,,1,2025,6
+table8,South Africa,4,,,Involvement in at least one activity,,1,2025,2253
+table8,South Africa,4,,,Employed,,1,2025,649
+table8,South Africa,4,,,Unemployed,,1,2025,466
+table8,South Africa,4,,,Not economically active,,1,2025,1138
+table8,South Africa,5,,,Subsistence farming,,1,2025,49
+table8,South Africa,5,,,Fetching water or collecting wood/dung,,1,2025,525
+table8,South Africa,5,,,Produce other goods for household use,,1,2025,7
+table8,South Africa,5,,,Construction or major repairs to own or household,,1,2025,6
+table8,South Africa,5,,,Hunting or fishing for household use,,1,2025,1
+table8,South Africa,5,,,Involvement in at least one activity,,1,2025,560
+table8,South Africa,5,,,Employed,,1,2025,131
+table8,South Africa,5,,,Unemployed,,1,2025,127
+table8,South Africa,5,,,Not economically active,,1,2025,302
+table8,South Africa,6,,,Subsistence farming,,1,2025,33
+table8,South Africa,6,,,Fetching water or collecting wood/dung,,1,2025,109
+table8,South Africa,6,,,Produce other goods for household use,,1,2025,1
+table8,South Africa,6,,,Construction or major repairs to own or household,,1,2025,7
+table8,South Africa,6,,,Hunting or fishing for household use,,1,2025,8
+table8,South Africa,6,,,Involvement in at least one activity,,1,2025,150
+table8,South Africa,6,,,Employed,,1,2025,71
+table8,South Africa,6,,,Unemployed,,1,2025,42
+table8,South Africa,6,,,Not economically active,,1,2025,36
+table8,South Africa,7,,,Subsistence farming,,1,2025,175
+table8,South Africa,7,,,Fetching water or collecting wood/dung,,1,2025,439
+table8,South Africa,7,,,Produce other goods for household use,,1,2025,22
+table8,South Africa,7,,,Construction or major repairs to own or household,,1,2025,7
+table8,South Africa,7,,,Hunting or fishing for household use,,1,2025,5
+table8,South Africa,7,,,Involvement in at least one activity,,1,2025,565
+table8,South Africa,7,,,Employed,,1,2025,164
+table8,South Africa,7,,,Unemployed,,1,2025,174
+table8,South Africa,7,,,Not economically active,,1,2025,227
+table8,South Africa,8,,,Subsistence farming,,1,2025,354
+table8,South Africa,8,,,Fetching water or collecting wood/dung,,1,2025,393
+table8,South Africa,8,,,Produce other goods for household use,,1,2025,10
+table8,South Africa,8,,,Construction or major repairs to own or household,,1,2025,34
+table8,South Africa,8,,,Hunting or fishing for household use,,1,2025,2
+table8,South Africa,8,,,Involvement in at least one activity,,1,2025,640
+table8,South Africa,8,,,Employed,,1,2025,216
+table8,South Africa,8,,,Unemployed,,1,2025,132
+table8,South Africa,8,,,Not economically active,,1,2025,292
