@@ -122,23 +122,8 @@ def process_pdf(pdf_path: Path) -> tuple[pd.DataFrame, pd.DataFrame, list]:
             logger.error("  [CLEAN] FAILED: %s", e)
             clean_df, q_col, q, y = pd.DataFrame(), "", fallback_q, fallback_y
 
-        # Stage 3: Validate
-        try:
-            val_df = validate_table(
-                clean_df, table_key, config, q_col, q, y,
-                trans_df if 'trans_df' in dir() else None, RUN_TS
-            )
-            val_df.to_csv(out_val / f"{table_key}_validation.csv",
-                          index=False, encoding="utf-8-sig")
-            all_val.append(val_df)
-            stage_ok["validate"] = True
-            fails = (val_df["status"] == "FAIL").sum()
-            if fails:
-                logger.warning("  [VALIDATE] %d FAIL(s)", fails)
-        except Exception as e:
-            logger.error("  [VALIDATE] FAILED: %s", e)
-
-        # Stage 4: Transform
+        # Stage 3: Transform
+        trans_df = pd.DataFrame()
         try:
             trans_df = transform_table(
                 clean_df, table_key, config, q_col, q, y,
@@ -152,6 +137,22 @@ def process_pdf(pdf_path: Path) -> tuple[pd.DataFrame, pd.DataFrame, list]:
                 all_trans.append(trans_df)
         except Exception as e:
             logger.error("  [TRANSFORM] FAILED: %s", e)
+
+        # Stage 4: Validate (runs after transform so it can inspect the output)
+        try:
+            val_df = validate_table(
+                clean_df, table_key, config, q_col, q, y,
+                trans_df if not trans_df.empty else None, RUN_TS
+            )
+            val_df.to_csv(out_val / f"{table_key}_validation.csv",
+                          index=False, encoding="utf-8-sig")
+            all_val.append(val_df)
+            stage_ok["validate"] = True
+            fails = (val_df["status"] == "FAIL").sum()
+            if fails:
+                logger.warning("  [VALIDATE] %d FAIL(s)", fails)
+        except Exception as e:
+            logger.error("  [VALIDATE] FAILED: %s", e)
 
         summary.append({
             "pdf"          : filename,

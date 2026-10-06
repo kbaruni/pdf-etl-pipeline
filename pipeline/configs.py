@@ -12,6 +12,7 @@ LOOKUP_PATH = DATA_DIR / "local_municipalities_district_ids.xlsx"
 # ── PDF registry — filename → (quarter, year) ──────────────────────────────
 # Used as fallback if auto-detection from column headers fails
 PDF_REGISTRY = {
+    "P02114thQuarter2023.pdf" : (4, 2023),
     "P02111stQuarter2024.pdf" : (1, 2024),
     "P02112ndQuarter2024.pdf" : (2, 2024),
     "P02113rdQuarter2024.pdf" : (3, 2024),
